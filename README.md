@@ -1,5 +1,5 @@
 # notenoughrants.com
-Source code and articles for notenoughrants.com, a blog about technology, iOS development and anything else I feel like writing about.
+Source code and articles for [notenoughrants.com][notenoughrants], a blog about technology, iOS development and anything else I feel like writing about.
 
 This repository contains the source code for the whole site and the articles (those will be moved to a separate repo eventually).
 
@@ -38,8 +38,9 @@ Contact
 
 You can find me on Twitter ([@jereahrequesi][twitter]) or email me at jeremias.np@gmail.com.
 
-[twitter]: https://twitter.com/jereahrequesi
+
 
 [s3_website]: https://github.com/laurilehmijoki/s3_website
 [Jekyll]: http://jekyllrb.com
-
+[twitter]: https://twitter.com/jereahrequesi
+[notenoughrants]: http://notenoughrants.com
